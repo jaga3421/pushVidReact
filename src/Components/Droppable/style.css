@@ -1,0 +1,9 @@
+.droppable > div {
+    width: 60%!important;
+    border: 2px solid rgba(82, 171, 210,.5)!important;
+    margin: 30px auto;
+}
+.droppable > div > div {
+    text-align: center;
+    padding: 50px;
+}
